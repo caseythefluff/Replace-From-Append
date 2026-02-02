@@ -1,5 +1,5 @@
 # Replace-From-Append
-A Blender addon that allows you to replace the selected object with one from another .blend file using the tab in the toolbar.
+A simple Blender addon that allows you to replace the selected object with one from another .blend file using the "AppendSwap" tab in the toolbar.
 
 Designed For Blender 4.5.5 LTS
 
